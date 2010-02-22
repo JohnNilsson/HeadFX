@@ -1,0 +1,17 @@
+Vision
+======
+A tool to help calibrate a headphone setup.
+Step 1. Analyse wearers unique equal loudness countour with the equipment
+Step 2. Generate EQ settings for a target curve
+
+Approach
+========
+JavaFX frontend
+Scala backend
+
+
+TODO
+====
+Connect frontend to backend
+Setup a maven project
+Continue development
